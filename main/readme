@@ -1,0 +1,16 @@
+# Intro to Artificial Intelligence
+# Section 2
+
+# Professor Nate Derbinski
+
+# Chess Bot
+# Pascal Bakker & Drew Manuel
+
+''' This chess bot should be able to (wait for it...) play chess efficiently
+and at a rating of at least 1200.
+
+It should carry out strategy in the form of
+a good opening, an adaptive and responsive middle game, and a decisive end game.
+
+It will use a database of chess games in order to search for the 'best' move
+for each new scenario.'''
